@@ -6,6 +6,8 @@
 
 Este repositorio está dedicado al aprendizaje de Python, desde conceptos básicos hasta la resolución de problemas de LeetCode y la creación de pequeños proyectos. Se basa en gran parte en el curso de **Python para Análisis de Datos** ofrecido por el Campus Digital de Zaragoza.
 
+[Python_Institute_Pcap](https://pythoninstitute.org/pcap)
+
 ---
 
 ## 📂 Organización de Carpetas
