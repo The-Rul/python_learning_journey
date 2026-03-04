@@ -16,6 +16,7 @@ El repositorio está estructurado de forma cronológica y progresiva:
 
 ### `00 Apuntes` 📚
 Contiene notas y explicaciones sobre los conceptos fundamentales de Python, inspiradas en el contenido del curso de Campus Digital de Zaragoza.
+Curso CTA (Marzo, 2026) -Python PCAP. Jose Luis. Orientado a la certificación PCAP.
 
 ### `01 Ejercicios Simples y Básicos de Aprendizaje` ✏️
 Incluye ejercicios diseñados para practicar los conceptos aprendidos en la carpeta "00 Apuntes" y asignados en el curso.
