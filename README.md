@@ -30,6 +30,10 @@ Proyectos pequeños que demuestran la aplicación de los conocimientos adquirido
 ### `lc-leetcode` 💻
 Contiene carpetas individuales para ejercicios de LeetCode que requieren una estructura de carpetas más compleja.
 
+### `da-dataanalyst` 📈
+El ejercicio o proyecto esta orientado al análisis de datos y el uso de biliotecas orientadas al mismo como pandas. 
+
+
 ---
 
 ## 📅 Cronología
