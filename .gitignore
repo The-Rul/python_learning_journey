@@ -1,10 +1,17 @@
 desktop.ini
+
 # Entorno virtual
 .venv/
+
 # Archivos compilados de Python
 __pycache__/
 *.pyc
-# Variables de entorno (contraseñas, claves API)
+
+# Variables de entorno
 .env
-# Configuración del IDE (opcional)
+
+# Configuración del IDE
 .vscode/
+
+# Archivo generado por la app
+gastos.json
